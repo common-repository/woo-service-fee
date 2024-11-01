@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooCommerce Service Fee\n"
+"POT-Creation-Date: 2018-08-01 04:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-service-fee.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Language: "
+
+#: woocommerce-service-fee.php:35
+msgid "Service Fee requires WooCommerce to be active."
+msgstr ""
+
+#: woocommerce-service-fee.php:36
+msgid "Go to the plugins page to activate WooCommerce"
+msgstr ""
+
+#: woocommerce-service-fee.php:83
+#: classes/woocommerce-service-fee-settings.php:25
+msgid "Service Fee"
+msgstr ""
+
+#. Description of the plugin/theme
+#: woocommerce-service-fee.php:84
+msgid ""
+"Apply a service fee to orders by default or if the order value is below a "
+"minimum amount."
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:15
+msgid "Enable"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:21
+msgid "Label"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:23
+msgid "The label of the service fee, used on orders"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:28
+msgid "Amount or %"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:30
+msgid ""
+"The fee, a fixed amount or percentage (add % after the number) that you want "
+"to apply as service fee on the order"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:35
+msgid "Tax class"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:39
+msgid "The tax class for the fee if taxable"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:40
+msgid "Do not add tax on the fee"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:45
+msgid "Order value"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:47
+msgid ""
+"Optional, apply extra fee when cart total is related as below to this amount"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:52
+msgid "Min/Max order"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:54
+msgid ""
+"Select if the fee should be applied on orders below or above the Order Value"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:57
+msgid "Apply fee when the order is below or equal to the Order value"
+msgstr ""
+
+#: classes/woocommerce-service-fee-settings.php:58
+msgid "Apply fee when the order is above or equal to the Order value"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Service Fee"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.bjorntech.se/servicefee"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BjornTech - Finnvid Innovation AB"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.bjorntech.se"
+msgstr ""
